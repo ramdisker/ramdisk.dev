@@ -1,0 +1,92 @@
+/* Global Styles */
+html {
+  border: 2px solid #ACCFEE;
+  text-align: center;
+  width: 1000px;
+  margin: auto;
+  font-family: Verdana, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  padding: 5px 15px;
+}
+
+/* Header & Subheader Styles */
+header, .subheader {
+  background: -webkit-linear-gradient(left, #7bb0e6 0%, #ffffff 90%);
+  text-align: left;
+  padding: 4px;
+}
+
+header {
+  font-size: 50px;
+}
+
+.subheader {
+  color: #FFFFFF;
+  font-size: 20px;
+}
+
+/* Typography Styles */
+h1 {
+  color: #7D8C8D;
+  font-size: 30px;
+  margin: 4px;
+  padding: 4px;
+  text-align: left;
+}
+
+h3 {
+  color: #ACCFEE;
+  font-size: 20px;
+}
+
+/* Box Styling */
+.box {
+  font-size: 20px;
+  border: 5px solid #ACCFEE;
+  text-align: right;
+  color: #677475;
+  width: 200px;
+}
+
+/* Link Styling */
+a:visited {
+  color: #7D8C8D;
+}
+
+a:hover {
+  color: #85C1F7;
+}
+
+/* Section & Container Styles */
+#section1 {
+  float: left;
+  width: 285px;
+  margin-left: 20px;
+}
+
+#section2 {
+  overflow: hidden;
+}
+
+#container {
+  width: 300px;
+  border: 2px solid red;
+}
+
+/* Image & Miscellaneous */
+.labs {
+  width: 50px;
+  height: 50px;
+}
+
+/* Paragraph Styling */
+p {
+  text-align: center;
+  color: #677475;
+}
